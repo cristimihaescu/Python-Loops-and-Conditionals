@@ -2,6 +2,7 @@ import unittest
 
 
 def find_smallest_int(arr):
+    return min(arr)
     # Your code here
     pass
 
