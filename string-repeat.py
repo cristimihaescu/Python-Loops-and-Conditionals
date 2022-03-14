@@ -2,6 +2,7 @@ import unittest
 
 
 def repeat_str(repeat, string):
+    return repeat * string
     # Your code here
     pass
 
