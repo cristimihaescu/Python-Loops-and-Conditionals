@@ -2,6 +2,7 @@ import unittest
 
 
 def remove_char(s):
+    return s[1:-1]
     # Put your solution here
     pass
 
